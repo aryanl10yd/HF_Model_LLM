@@ -1,11 +1,3 @@
-File README
-
--------------
-in case the code fails to work:
-  - Attempt to uninstall and reinstall PyTorch and its dependencies
-  - install new visual studio program update
-  - Ensure correct api key
-
 # HuggingFace Model LLM Project
 
 I created this project as a way to test out the limits and use cases of HuggingFace Models
@@ -23,3 +15,10 @@ I made this project in order to expand my understanding of AI and ML by working 
 
 - Llama LLM Model (HuggingFace)
 - Python (Transformers, AutoModel, Pytorch, Pipeline, LlamaModel, Requests)
+
+## Personal Note
+
+### in case the code fails to work:
+  - Attempt to uninstall and reinstall PyTorch and its dependencies
+  - install new visual studio program update
+  - Ensure correct api key
