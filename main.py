@@ -3,8 +3,6 @@ from huggingface_hub import login, HfApi, HfFolder
 import requests
 import torch
 
-# login(token="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")
-
 api_token = "YOUR_API_TOKEN_HERE"
 
 model_name = "meta-llama/Meta-Llama-3.1-8B-Instruct"
